@@ -4,6 +4,11 @@ mainset:
 - names:
   - name: Brian Boitanoville
     probability: 1
+  - name: Hatsune Miku
+    probability: 1
 name: 'New Townname #0'
 source: null
-subsets: []
+subsets:
+- name: newset-0
+  parts:
+  - names: []
